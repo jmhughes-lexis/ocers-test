@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: CrashManagement.ClientHost-Setup-1.0.0.exe
+    sha512: gv124k2lRAKCKoK6v4D4TD1oPMcYPqfrIZrfz9ALi4x840RMA4ql1RcR58PB0Z76lW6lEV6uqoah17HqSd2Y9g==
+    size: 210503962
+path: CrashManagement.ClientHost-Setup-1.0.0.exe
+sha512: gv124k2lRAKCKoK6v4D4TD1oPMcYPqfrIZrfz9ALi4x840RMA4ql1RcR58PB0Z76lW6lEV6uqoah17HqSd2Y9g==
+releaseDate: '2022-01-24T14:05:32.460Z'
